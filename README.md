@@ -4,6 +4,7 @@
 - 🏗️ I'm a **Junior C++ Developer** with a passion for coding.
 - 🤝 I haven't worked on collaborative projects yet, but I'm eager to learn and contribute.
 - 🐍 Learning **Python** as my secondary language — I can write simple scripts and experiment with automation.
+- 🏅 Using **CLion** for coding
 
 ### 💡 My Projects
 - 🚀 I have a few **early projects** from when I started programming.  
